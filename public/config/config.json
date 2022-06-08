@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF269f9CB14585a31893C8613aca5b9aa9AD65f7D",
+  "SCAN_LINK": "https://polygonscan.com/token/0xF269f9CB14585a31893C8613aca5b9aa9AD65f7D",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Simple Doge",
+  "SYMBOL": "SDOGE",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
